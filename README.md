@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Olayemi
-- 🌱 I’m a Data Analyst with proficiency in Excel, Power BI, SQL and Python
-- 👀 I am committed to continuous learning and staying updated with the latest trends and technologies in data analysis.
+# Hi, I'm Olayemi!👋
+# Data Analyst | Community Manager | Web3 & DeFi Enthusiast 
+
+Committed to continuous learning, making data-driven decisions, and building a thriving community. 
+Experienced in managing Web3 & DeFi communities.
 - 💞️ I’m looking to collaborate on projects
 - ⚡ Fun fact about me, I'm open to making new friends and I love FOOD
-
+  
+🚀 **Check out my latest projects below!** 
 <!---
 theOlayemisi/theOlayemisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
