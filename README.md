@@ -7,8 +7,8 @@ Experienced in managing **Web3 & DeFi communities.**
 - 💞️ I’m looking to collaborate on projects
 - ⚡ Fun fact about me, I'm open to making new friends and I love FOOD
   
-🚀 **Check out my latest projects below!** 
+🚀 **Check out my latest projects in the repositories** 
 <!---
-theOlayemisi/theOlayemisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+theOlayems/theOlayems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
