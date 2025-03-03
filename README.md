@@ -8,6 +8,13 @@ Experienced in managing **Web3 & DeFi communities.**
 - ⚡ Fun fact about me, I'm open to making new friends and I love FOOD
   
 🚀 **Check out my latest projects in the repositories** 
+### 📊 GitHub Stats:
+![Olayemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=theOlayems&show_icons=true&theme=radical)
+
+### 🚀 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theOlayems&layout=compact&theme=radical)
+
+
 <!---
 theOlayems/theOlayems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
