@@ -4,7 +4,7 @@ I am committed to continuous learning, making data-driven decisions, and buildin
 Also experienced in managing **Web3 & DeFi communities.**
 - Skilled in the use of **Python, SQL, Power BI, Excel, & R for Data Cleaning & Visualization**
 - 💞️ I’m looking to collaborate on projects
-- ⚡ Fun fact about me, I'm open to making new friends and a Foodie
+- ⚡ Fun fact about me, I'm open to making new friends and I'm a Foodie
   
 🚀 **Check out my latest projects in the repositories** 
 
