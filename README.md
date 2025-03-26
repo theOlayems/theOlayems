@@ -1,4 +1,4 @@
-# Hi👋, I'm Olayemi, Welcome to my hub! 
+# Hi👋 I'm Olayemi, Welcome to my hub! 
 
 I am committed to continuous learning, making data-driven decisions, and building a thriving community. 
 Also experienced in managing **Web3 & DeFi communities.**
